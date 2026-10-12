@@ -172,10 +172,6 @@ public class MyAlgo implements Scheduler {
 - CloudSim keeps static state. If you see odd results after the first simulation, run one algorithm per execution.
 - If `Log.disable()` does not compile in your CloudSim version, use `Log.setDisabled(true)` in `Runner.java`.
 
-## Results
-
-_Add your own results here after running the project, for example, the console table and `summary_makespan.png`._
-
 ## References
 
 - CloudSim: https://github.com/Cloudslab/cloudsim
